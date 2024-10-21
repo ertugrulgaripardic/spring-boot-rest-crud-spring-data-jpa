@@ -20,7 +20,6 @@ This project is a simple implementation of a RESTful web service using Spring Bo
 - Maven
 
 ## Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/ertugrulgaripardic/spring-boot-rest-crud-spring-data-jpa.git
