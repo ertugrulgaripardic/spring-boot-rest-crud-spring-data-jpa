@@ -12,7 +12,6 @@ This project is a simple implementation of a RESTful web service using Spring Bo
 - Input validation using Hibernate Validator
 
 ## Technologies Used
-
 - Spring Boot
 - Spring Data JPA
 - MySQL/PostgreSQL
