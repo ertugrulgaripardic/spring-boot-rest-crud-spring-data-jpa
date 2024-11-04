@@ -18,6 +18,7 @@ This project is a simple implementation of a RESTful web service using Spring Bo
 - Hibernate
 - Maven
 
+
 ## Setup
 1. Clone the repository:
    ```bash
