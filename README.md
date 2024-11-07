@@ -3,13 +3,13 @@
 This project is a simple implementation of a RESTful web service using Spring Boot and Spring Data JPA. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on a MySQL/PostgreSQL database. 
 
 ## Features
-
 - REST API for CRUD operations
 - Layered architecture (Controller, Service, Repository)
 - Spring Data JPA integration for database access
 - Exception handling with custom error messages
 - Pagination and sorting support
 - Input validation using Hibernate Validator
+
 
 ## Technologies Used
 - Spring Boot
