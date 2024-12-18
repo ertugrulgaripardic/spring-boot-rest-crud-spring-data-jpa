@@ -1,4 +1,4 @@
-# Spring Boot REST CRUD 
+# Spring Boot REST CRUD Operators
 
 ## Application with Spring Data JPA
 
