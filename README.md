@@ -2,7 +2,7 @@
 
 ## Application with Spring Data JPA
 
-This project is a simple implementation of a RESTful web service using Spring Boot and Spring Data JPA. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on a MySQL/PostgreSQL database. 
+This project is main simple implementation of a RESTful web service using Spring Boot and Spring Data JPA. It demonstrates basic CRUD (Create, Read, Update, Delete) operations on a MySQL/PostgreSQL database. 
 
 ## Features
 - REST API for CRUD operations
