@@ -12,7 +12,8 @@ This project is main simple implementation of a RESTful web service using Spring
 - Pagination and sorting support
 - Input validation using Hibernate Validator.
 - 
-## Technologies Used
+## Technologies Used For Projects
+
 - Spring Boot
 - Spring Data JPA
 - MySQL/PostgreSQL
