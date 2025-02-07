@@ -23,3 +23,4 @@ This project is main simple implementation of a RESTful web service using Spring
 1. Clone the repository:
    ```bash
    git clone https://github.com/ertugrulgaripardic/spring-boot-rest-crud-spring-data-jpa.git
+   vs
