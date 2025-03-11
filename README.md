@@ -10,7 +10,7 @@ This project is main simple implementation of a RESTful web service using Spring
 - Spring Data JPA integration for database access
 - Exception handling with custom error messages
 - Pagination and sorting support
-- Input validation using Hibernate Validator.
+- Input validation using Hibernate validator
 - 
 ## Technologies Used For Projects
 - Spring Boot
